@@ -5,5 +5,6 @@
 2. Run the commands:
 
 ```bash
+echo "installing updates"
 sudo apt-get update && sudo apt-get upgrade -y
 ```
