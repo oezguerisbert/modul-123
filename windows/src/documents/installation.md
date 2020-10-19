@@ -26,5 +26,5 @@ In order to acces the powershell within the container you have to run the comman
 docker container ls
 #CID | IMAGE | COMMAND | CREATED | STATUS | PORTS | NAMES
 #5148dcad58ab | winltsc2019 | "c:\\windows\\system32…"   22 minutes ago      Up 22 minutes lucid_roentgen
-docker exec -it 5148
+docker exec -it <CID>
 ```
