@@ -1,9 +1,19 @@
-# Modul 123 - IBZ
+# Linux 2019
 
-## Goals:
+This will be the documentation of the Linux Server.
 
-* Erstellen einer Server für:
-    * DHCP
-    * DNS
-    * Fileserver
-    * Printserver
+## Documentation
+In this documentation you will find:
+
+* [DHCP](./src/documents/dhcp.md)
+* [DNS](./src/documents/dns.md)
+* [File-Server](./src/documents/fileserver.md)
+* [Print-Server](./src/documents/printserver.md)
+
+### DHCP
+
+### DNS
+
+### File-Server
+
+### Print-Server
