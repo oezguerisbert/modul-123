@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "test";
+echo mv ./dhcp.yaml /etc/netplan/99_config.yaml
