@@ -1,3 +1,6 @@
 #!/bin/sh
 
-echo mv ./dhcp.yaml /etc/netplan/99_config.yaml
+sudo apt install isc−dhcp−server
+
+echo cp ./dhcp.yaml /etc/netplan/99_config.yaml
+
