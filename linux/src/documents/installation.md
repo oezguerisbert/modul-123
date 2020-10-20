@@ -1,4 +1,4 @@
-# Installation via Docker
+# Installation via Ubuntu
 
 ## Requirements & Installation
 1. Install [Ubuntu 20.04](https://ubuntu.com/download/server)
